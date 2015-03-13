@@ -1,0 +1,1 @@
+Parallel program performance enhancement system (PPPES) provides opportunity to gather detailed information about work of parallel algorithms, making it possible to visually analyze them in process.
